@@ -8,3 +8,27 @@ Users
 Lectures
 ![Lectures_01](https://github.com/user-attachments/assets/c4adcb8a-5d5a-4380-93c4-6a1cf8f38f23)
 ![Lectures_02](https://github.com/user-attachments/assets/8edb5203-82b5-4e45-b87c-82833462decc)
+
+Features
+
+Course Management: Create, update, and delete courses
+Teacher Management: Record teacher information and associate them with courses
+Student Management: Maintain student records and register them for courses
+User-Friendly Interface: Responsive and modern design
+
+Technology Stack
+Backend
+
+Java 17
+Spring Boot 3.1.0
+Spring Data JPA
+Spring Security
+PostgreSQL
+Gradle
+
+Frontend
+
+React 18
+Bootstrap 5
+Axios for API requests
+React Router for navigation
