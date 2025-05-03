@@ -1,3 +1,4 @@
+# 🎓 Lecture Management System
 Lecture Management System is a fullstack web application designed to facilitate the management of lectures, teachers, and students. The system provides essential functionalities such as creating courses, assigning students to courses, and managing course registrations.
 
 Users
@@ -9,20 +10,19 @@ Lectures
 ![Lectures_01](https://github.com/user-attachments/assets/c4adcb8a-5d5a-4380-93c4-6a1cf8f38f23)
 ![Lectures_02](https://github.com/user-attachments/assets/8edb5203-82b5-4e45-b87c-82833462decc)
 
-Features
+## Features
 
 Course Management: Create, update, and delete courses
 Teacher Management: Record teacher information and associate them with courses
 Student Management: Maintain student records and register them for courses
 User-Friendly Interface: Responsive and modern design
 
-Technology Stack
-Backend
+## 🚀 Tech Stack
+**Backend:**
 
-Java 17
-Spring Boot 3.1.0
+Java
+Spring Boot
 Spring Data JPA
-Spring Security
 PostgreSQL
 Gradle
 
